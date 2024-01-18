@@ -2,3 +2,7 @@ C:\Users\Kirill\source\repos\Laba5\x64\Debug\Laba5.vcxproj.AssemblyReference.cac
 C:\Users\Kirill\source\repos\Laba5\x64\Debug\Laba5.exe
 C:\Users\Kirill\source\repos\Laba5\x64\Debug\Laba5.MyForm.resources
 C:\Users\Kirill\source\repos\Laba5\x64\Debug\Laba5.vcxproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\Laba55\x64\Debug\Laba5.vcxproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Laba55\x64\Debug\Laba5.MyForm.resources
+C:\Users\Kirill\source\repos\Laba55\x64\Debug\Laba5.vcxproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\Laba55\x64\Debug\Laba5.exe
