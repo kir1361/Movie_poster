@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Kirill\source\repos\Laba5\Function.h(23,21): warning C4490: 'override': incorrect use of override specifier; 'Laba5::Film::displayFilmInfo' does not match a base ref class method
+C:\Users\Kirill\source\repos\Laba5\Function.h(23,21): message : 'new' or 'override' are only allowed when a matching base method from a ref class exists
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Laba5.vcxproj -> C:\Users\Kirill\source\repos\Laba5\x64\Debug\Laba5.exe
